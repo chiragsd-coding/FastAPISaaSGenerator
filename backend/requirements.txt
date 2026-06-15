@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+jinja2
+sqlalchemy
+alembic
+motor
+couchbase
+python-jose
+pytest
+httpx
